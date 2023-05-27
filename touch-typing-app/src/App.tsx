@@ -15,7 +15,7 @@ const initialState = {
   errorIndex: 0,
   correctIndex: 0,
   wpm: 0,
-  duration: 60,
+  duration: 30,
   incorrect: false,
   started: false
 };
@@ -120,7 +120,7 @@ function App() {
 
     // Timer
     const now = Date.now();
-    const seconds = now + 60 * 1000;
+    const seconds = now + 30 * 1000;
 
     interval.current = window.setInterval(() => {
       const secondLeft = Math.round((seconds - Date.now()) / 1000);
