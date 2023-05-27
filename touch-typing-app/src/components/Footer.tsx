@@ -35,7 +35,7 @@ function Footer({ theme }: Props) {
           <li className='nav-item pe-1'>
             <a
               className='github-button'
-              href='https://github.com/Yash0922/touch-typing-app/tree/main/touch-typing-app/fork'
+              href='https://github.com/Yash0922/touch-typing-app/fork'
               data-icon='octicon-repo-forked'
               data-color-scheme='no-preference: light; light: light; dark: dark;'
               data-show-count='true'
@@ -49,7 +49,7 @@ function Footer({ theme }: Props) {
               className='github-button'
               href='https://github.com/Yash0922'
               data-color-scheme='no-preference: light; light: light; dark: dark;'
-              aria-label='Follow @Yash0922 on GitHub'
+              aria-label='Follow Yash0922 on GitHub'
             >
               Follow
             </a>
