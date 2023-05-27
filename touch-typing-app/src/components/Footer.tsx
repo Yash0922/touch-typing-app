@@ -22,11 +22,11 @@ function Footer({ theme }: Props) {
           <li className='nav-item pe-1'>
             <a
               className='github-button'
-              href='https://github.com/awran5/react-one-minute-speed-typing-test-ts'
+              href='https://github.com/Yash0922/touch-typing-app/tree/main/touch-typing-app'
               data-icon='octicon-star'
               data-color-scheme='no-preference: light; light: light; dark: dark;'
               data-show-count='true'
-              aria-label='Star awran5/react-one-minute-speed-typing-test-ts on GitHub'
+              aria-label='Star Yash0922/react-one-minute-speed-typing-test-ts on GitHub'
             >
               Star
             </a>
@@ -35,11 +35,11 @@ function Footer({ theme }: Props) {
           <li className='nav-item pe-1'>
             <a
               className='github-button'
-              href='https://github.com/awran5/react-one-minute-speed-typing-test-ts/fork'
+              href='https://github.com/Yash0922/touch-typing-app/tree/main/touch-typing-app/fork'
               data-icon='octicon-repo-forked'
               data-color-scheme='no-preference: light; light: light; dark: dark;'
               data-show-count='true'
-              aria-label='Fork awran5/react-one-minute-speed-typing-test-ts on GitHub'
+              aria-label='Fork Yash0922/react-one-minute-speed-typing-test-ts on GitHub'
             >
               Fork
             </a>
@@ -47,9 +47,9 @@ function Footer({ theme }: Props) {
           <li className='nav-item'>
             <a
               className='github-button'
-              href='https://github.com/awran5'
+              href='https://github.com/Yash0922'
               data-color-scheme='no-preference: light; light: light; dark: dark;'
-              aria-label='Follow @awran5 on GitHub'
+              aria-label='Follow @Yash0922 on GitHub'
             >
               Follow
             </a>

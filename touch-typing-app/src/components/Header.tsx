@@ -21,7 +21,7 @@ function Header({ handleThemeMode, theme }: Props) {
           <li className='nav-item col-md-auto me-3'>
             <a
               className='nav-link p-2'
-              href='https://github.com/awran5/react-one-minute-speed-typing-test-ts'
+              href='https://github.com/Yash0922/touch-typing-app'
               target='_blank'
               rel='noopener noreferrer'
               aria-label='github'
