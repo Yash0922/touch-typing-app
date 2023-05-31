@@ -149,7 +149,8 @@ hr {
 }
 
 .speed-meter .meter-gauge .border {
-  border: 3px solid rgb(255, 255, 148) !important;
+  border: 3px solid red !important;
+  border-radius: 15px;
 }
 
 .bg-white .speed-meter .meter-gauge .border {
